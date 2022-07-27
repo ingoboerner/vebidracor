@@ -1,3 +1,5 @@
+**This repository is deprecated and kept for testing purposes only, please use https://github.com/dracor-org/vebidracor**
+
 # VeBiDraCor – Very Big Drama Corpus
 
 For **VeBiDraCor** plays pubslished on [DraCor](https://dracor.org) have been assembled to a Very Big Drama Corpus containing some 2.900 plays. 
